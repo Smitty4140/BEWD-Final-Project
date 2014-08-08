@@ -1,1 +1,1 @@
-For my final project I want to incorporate an API with a responsive design
+For my final project I want to incorporate an API with a responsive design YAY!
